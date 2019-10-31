@@ -1,0 +1,11 @@
+
+# C extensions
+*.so
+
+build/
+develop-eggs/
+dist/
+data/
+downloads/
+
+.idea/
